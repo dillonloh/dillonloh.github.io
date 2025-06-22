@@ -1,0 +1,39 @@
+header {
+    margin: -10px; /* Negative margin to get rid of whitespace around header*/
+}
+
+.header-container {
+    display: flex;
+    background-color: #E5E5E5;
+    padding: 20px;
+    border: red 2px solid;
+    margin: 0px;
+}
+
+.nav-menu {
+    border: red 2px solid;
+    padding: 5px;
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 20px;
+    padding: 0px;
+}
+
+.social-menu {
+    border: red 2px solid;
+    margin-left: auto;
+    align-self: flex-end;
+    padding: 5px;
+}
+
+.social-list {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 20px;
+    padding: 0px;
+}
