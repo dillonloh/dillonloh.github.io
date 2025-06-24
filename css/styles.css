@@ -185,6 +185,8 @@ footer p {
 /* News page css */
 .research-content {
     font-family: "Roboto", sans-serif;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .research-content ul {
@@ -198,4 +200,8 @@ footer p {
 
 .research-content p {
     font-size: 24px;
+}
+
+.research-category {
+    padding-left: 15px;
 }
