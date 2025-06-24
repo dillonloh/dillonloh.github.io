@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eleventy": "^1.0.7"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy"
+  }
+}
