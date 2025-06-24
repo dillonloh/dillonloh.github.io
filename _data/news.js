@@ -1,7 +1,7 @@
 module.exports = [
     {
-      date: "07 Feb 2023",
-      content: `I will be joining the University of Cambridge’s MPhil in Machine Learning and Machine Intelligence in Sep 2025 (Michaelmas 2025)!`
+      date: "07 Feb 2025",
+      content: `I will be joining the University of Cambridge’s MPhil in Machine Learning and Machine Intelligence in Sep 2025 (Michaelmas 2025) as a member of St Edmund's College!`
     },
     {
       date: "14 Jan 2025",
