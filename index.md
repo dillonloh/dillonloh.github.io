@@ -3,6 +3,21 @@ layout: layout.njk
 title: Home
 ---
 
+<script>
+  function changeImage() {
+    const img = document.getElementById("imgClickAndChange");
+    const currentSrc = img.src;
+    const filename = currentSrc.substring(currentSrc.lastIndexOf('/') + 1);
+
+    if (filename === "profile.jpg") {
+      alert("SURPRISE!")
+      img.src = "/static/surprise.png";
+    } else {
+      img.src = "/static/profile.jpg";
+    }
+  }
+</script>
+
 <div class="center-container">
   <div class="center-inner-container">
     <div class="intro-text">
@@ -18,7 +33,7 @@ title: Home
       </p>
     </div>
     <div class="head-image">
-      <img src="/static/profile.jpg" />
+      <img id="imgClickAndChange" src="/static/profile.jpg" onclick="changeImage()"/>
     </div>
   </div>
 </div>
