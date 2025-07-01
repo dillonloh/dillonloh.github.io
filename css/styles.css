@@ -111,8 +111,9 @@ main {
 
 .head-image {
     flex: 1;
-    max-width: 300px;
-    max-height: 300px; /* Optional: adjust to your desired circle size */
+    margin-top: 20px;
+    max-width: 400px;
+    max-height: 400px; /* Optional: adjust to your desired circle size */
     aspect-ratio: 1; /* Enforces square shape */
     border-radius: 50%;
     overflow: hidden;   /* Ensures the image is clipped to the circle */
