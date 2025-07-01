@@ -23,11 +23,13 @@ title: Home
     <div class="intro-text">
       <h1>Hi, I'm Dillon Loh</h1>
       <p>
-        I’m a software engineer at Hiverlab, where I focus on building scalable ML/CV-based solutions and robotic simulations.
-        I did my BSc at Nagoya University and majored in Physics, focusing on theoretical astrophysics research.
+        I’m a software engineer at <a target="_blank" href="https://hiverlab.com/">Hiverlab</a>, where I focus on building scalable ML/CV-based solutions, web applications, and simulations.
+        I did my BSc in Physics at Nagoya University, focusing on theoretical astrophysics research under <a target="_blank" href="https://sites.google.com/site/omegalabnagoya/member/takeuchi_tsutomu">Professor Tsutomu Takeuchi</a> at the <a target="_blank" href="https://sites.google.com/site/omegalabnagoya/home/">Laboratory of Galaxy Formation and Evolution (Ω Lab)</a>. My thesis on the use of unsupervised deep learning for analysing galactic images can be found <a target="_blank" href="https://github.com/dillonloh/galaxy-dim">here</a>.
+      </p>
+      <p>
         I will be joining the University of Cambridge’s MPhil in Machine Learning and Machine Intelligence programme in Sep 2025!
       </p>
-      <p> My CV can be found <a href="/static/(2025) Academic CV - Dillon.pdf">here</a>.
+      <p> My CV can be found <a target="_blank"  href="/static/(2025) Academic CV - Dillon.pdf">here</a>.
       <p>
         More importantly, I squat 140kg, bench 110kg, and OHP 80kg @ 74kg bw (no i don’t deadlift)
       </p>
