@@ -8,6 +8,11 @@ module.exports = {
     presentations: [
       {
         text: `Loh, D., Takeuchi, T., Cooray, S., & Iwasaki, D. (2022, October). Latent space representations of galaxies and their relationship with galactic properties. Talk presented at the 4th Data Science in Astronomy Workshop, Tokyo, Japan.`,
+        url: "https://drive.google.com/file/d/13kqM1C2cplogvQawswxzLa9AQ_-be4LP/view?usp=sharing",
+        label: "Slides Link"
+      },
+      {
+        text: `Loh, D., Takeuchi, T., Cooray, S., & Iwasaki, D. (2022, October). Latent space representations of galaxies and their relationship with galactic properties. Talk presented at the 4th Data Science in Astronomy Workshop, Tokyo, Japan.`,
         url: "https://github.com/dillonloh/galaxy-dim/blob/main/Data%20Science%20Conference.pptx.pdf",
         label: "Slides Link"
       },

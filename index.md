@@ -27,11 +27,11 @@ title: Home
         I did my BSc in Physics at Nagoya University, focusing on theoretical astrophysics research under <a target="_blank" href="https://sites.google.com/site/omegalabnagoya/member/takeuchi_tsutomu">Professor Tsutomu Takeuchi</a> at the <a target="_blank" href="https://sites.google.com/site/omegalabnagoya/home/">Laboratory of Galaxy Formation and Evolution (Ω Lab)</a>. My thesis on the use of unsupervised deep learning for analysing galactic images can be found <a target="_blank" href="https://github.com/dillonloh/galaxy-dim">here</a>.
       </p>
       <p>
-        I will be joining the University of Cambridge’s MPhil in Machine Learning and Machine Intelligence programme in Sep 2025!
+        I am currently a student at the University of Cambridge’s MPhil in Machine Learning and Machine Intelligence programme, specialising in Computer Vision and Robotics (expected graduation Aug 2026).
       </p>
       <p> My CV can be found <a target="_blank"  href="/static/(2025) Academic CV - Dillon.pdf">here</a>.
       <p>
-        More importantly, I squat 140kg, bench 110kg, and OHP 80kg @ 74kg bw (no i don’t deadlift)
+        More importantly, I squat 140kg, bench 110kg, and OHP 80kg @ 74kg bw (no i don’t deadlift). I also box for the Cambridge University Amateur Boxing Club at the Lightweight category (Varsity 2026, British University Championships [BUCS] 2026).
       </p>
     </div>
     <div class="head-image">

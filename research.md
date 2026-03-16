@@ -15,7 +15,7 @@ title: Research
         {% for item in research.publications %}
           <li>
             <p>{{ item.text }}
-            {% if item.url %}<a href="{{ item.url }}">{{ item.url }}</a>{% endif %}</p>
+            {% if item.url %}<span style="font-style:italic;"><a href="{{ item.url }}">{{ item.url }}</a></span>{% endif %}</p>
           </li>
         {% endfor %}
       </ul>
@@ -27,7 +27,7 @@ title: Research
         {% for item in research.presentations %}
           <li>
             <p>{{ item.text }}<br/><br/>
-            {% if item.url %}{{ item.label }}: <a href="{{ item.url }}">{{ item.url }}</a>{% endif %}</p>
+            {% if item.url %}<span style="font-style:italic;">{{ item.label }}: <a href="{{ item.url }}">{{ item.url }}</a></span>{% endif %}</p>
           </li>
         {% endfor %}
       </ul>
