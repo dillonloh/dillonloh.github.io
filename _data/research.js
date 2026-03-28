@@ -7,7 +7,7 @@ module.exports = {
     ],
     presentations: [
       {
-        text: `Loh, D., Takeuchi, T., Cooray, S., & Iwasaki, D. (2022, October). Latent space representations of galaxies and their relationship with galactic properties. Talk presented at the 4th Data Science in Astronomy Workshop, Tokyo, Japan.`,
+        text: `Loh, D. (2025, December). Towards intuitive understanding of human intent by embodied agents in robots and virtual assistants. Talk presented at SIGGRAPH Asia 2025, Hong Kong.`,
         url: "https://drive.google.com/file/d/13kqM1C2cplogvQawswxzLa9AQ_-be4LP/view?usp=sharing",
         label: "Slides Link"
       },
