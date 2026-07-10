@@ -1,5 +1,9 @@
 module.exports = [
     {
+      date: "23 Jun 2026",
+      content: `I presented an update to the entire MPhil MLMI cohort and professors on my progress on my research project "HD-EPIC-3D: Object-Centric 3D Scene Reconstruction from Noisy Egocentric Videos​"`,
+    },
+    {
       date: "10 Mar 2026",
       content: `As a member of the 118th Varsity Cambridge Boxing Team, we have brought the Truelove Cup back to Cambridge! Image Credits: @florencetawnsphoto, @s.hellayyyy`,
       image_urls: ["/static/varsity2.jpg", "/static/varsity3.jpg", "/static/cuabc1.jpg"]
