@@ -232,25 +232,30 @@ footer p {
   }
 
 /* News page css */
-.research-content {
+.research-content,
+.resume-content {
     font-family: "Roboto", sans-serif;
     margin-top: 50px;
     margin-bottom: 100px;
 }
 
-.research-content ul {
+.research-content ul,
+.resume-content ul {
     list-style: none;
     padding: 0;
 }
-.research-content h2 {
+.research-content h2,
+.resume-content h2 {
     font-size: 36px;
     font-weight: bold;
 }
 
-.research-content p {
+.research-content p,
+.resume-content p {
     font-size: 24px;
 }
 
-.research-category {
+.research-category,
+.resume-category {
     padding-left: 15px;
 }
