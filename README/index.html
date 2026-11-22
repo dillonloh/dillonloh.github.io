@@ -1,0 +1,55 @@
+<h1>dillonloh.github.io</h1>
+<p>Personal website, built with <a href="https://www.11ty.dev/">Eleventy (11ty)</a> and deployed to GitHub Pages.</p>
+<h2>Requirements</h2>
+<ul>
+<li>Node.js 18+ and npm</li>
+</ul>
+<h2>Serve locally</h2>
+<pre><code class="language-bash">npm install
+npx @11ty/eleventy --serve
+</code></pre>
+<p>Then open http://localhost:8080. The dev server rebuilds and live-reloads when you save a file.</p>
+<p>To use a different port:</p>
+<pre><code class="language-bash">npx @11ty/eleventy --serve --port=3000
+</code></pre>
+<h2>Build</h2>
+<pre><code class="language-bash">npm run build
+</code></pre>
+<p>The site is written to <code>_site/</code> (git-ignored). To preview the built output without the dev server, serve that folder with any static server, e.g. <code>npx serve _site</code> or <code>python3 -m http.server -d _site</code>.</p>
+<h2>Deploy</h2>
+<p>Pushing to <code>main</code> triggers <a href=".github/workflows/deploy.yml">.github/workflows/deploy.yml</a>, which runs <code>npm run build</code> and publishes <code>_site/</code> to GitHub Pages. No manual step is needed.</p>
+<h2>Layout</h2>
+<table>
+<thead>
+<tr>
+<th>Path</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>index.md</code>, <code>research.md</code>, <code>projects.md</code>, <code>news.md</code></td>
+<td>Pages</td>
+</tr>
+<tr>
+<td><code>_data/</code></td>
+<td>Data files (<code>news.js</code>, <code>research.js</code>) used by the pages</td>
+</tr>
+<tr>
+<td><code>_includes/</code></td>
+<td>Nunjucks layout, header and footer</td>
+</tr>
+<tr>
+<td><code>css/</code></td>
+<td>Stylesheets</td>
+</tr>
+<tr>
+<td><code>static/</code></td>
+<td>Images, GIFs and other assets</td>
+</tr>
+<tr>
+<td><code>.eleventy.js</code></td>
+<td>Eleventy config (passthrough copies, input/output dirs)</td>
+</tr>
+</tbody>
+</table>
