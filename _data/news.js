@@ -1,5 +1,10 @@
 module.exports = [
     {
+      date: "24 Oct 2026",
+      content: `I graduated with a First-class equivalent from the University of Cambridge with an MPhil in Machine Learning and Machine Intelligence!`,
+      image_urls: ["/static/grad_kneel.jpg"]
+    },
+    {
       date: "23 Jun 2026",
       content: `I presented an update to the entire MPhil MLMI cohort and professors on my progress on my research project "HD-EPIC-3D: Object-Centric 3D Scene Reconstruction from Noisy Egocentric Videos​"`,
     },

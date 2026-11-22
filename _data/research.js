@@ -1,4 +1,17 @@
 module.exports = {
+    dissertations: [
+      {
+        text: `Loh, D. (2026). HD-EPIC-3D: Object-centric 3D/4D reconstruction from egocentric videos. MPhil in Machine Learning and Machine Intelligence Dissertation, University of Cambridge`,
+        url: "https://github.com/dillonloh/hd-epic-3d/blob/cdcfc8eb3f234a5f4f7fbed038399e40b95a0112/Loh_HD-EPIC-3D_2026.pdf",
+        label: "Masters Dissertation Link"
+      },
+      {
+        text: `Loh, D. (2022). Applications of Dimensional Reduction Methods to Galactic Images. BSc in Physics Thesis, Nagoya University`,
+        url: "https://github.com/dillonloh/galaxy-dim/blob/d0395d598262fac4c823b95a3484dbdd26466374/Bachelors_Thesis.pdf",
+        label: "Bachelors Thesis Link"
+        
+      }
+    ],
     publications: [
       {
         text: `Loh, D., Bednarz, T., Xia, X., & Guan, F. (2024). AdaVLN: Towards visual language navigation in continuous indoor environments with moving humans [Preprint]. arXiv.`,
